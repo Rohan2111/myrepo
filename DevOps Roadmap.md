@@ -70,11 +70,11 @@
 <br>
 
 ## Networking, Security, and Protocols: 
-***FTP/SFTP, DNS, HTTP/HTTPS, SSL/TLS, SSH*** 
+***FTP/SFTP,  DNS,  HTTP/HTTPS,  SSL/TLS,  SSH*** 
 <br>
 
 ## Email: 
-***White/Grey Listing, SMTP, DMARC, IMAPS, POP3S, SPF, DomainKeys***
+***White/Grey Listing,  SMTP,  DMARC,  IMAPS,  POP3S,  SPF,  DomainKeys***
 <br>
 
 ## Serverless: 
