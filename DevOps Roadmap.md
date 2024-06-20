@@ -1,7 +1,5 @@
 # DevOps Roadmap 
 
----
-
 ## Learn a Programming Language: 
 - ***Python*** 
 - ***Go***
